@@ -1,7 +1,7 @@
 # Sudin Singha Roy
 
-Independent Dairy & Food Processing Consultant  
-Process Engineering | Commissioning | Project Support  
+Dairy & Food Processing Consultant  
+Process Engineering | Commissioning | Project Planning & Execution
 
 📍 India / International Projects  
 📧 Email: sudinsingharoy.consultant@gmail.com  
