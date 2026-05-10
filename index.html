@@ -6,7 +6,45 @@
     <title>Sudin Singha Roy | Process & Commissioning Consultant</title>
 
     <style>
+.navbar {
 
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: rgba(15, 23, 42, 0.95);
+    border-bottom: 1px solid #1e293b;
+    z-index: 1000;
+}
+
+.nav-container {
+
+    max-width: 1100px;
+    margin: auto;
+    padding: 18px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+
+    color: #f59e0b;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.nav-links a {
+
+    margin-left: 28px;
+    color: #e2e8f0;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.nav-links a:hover {
+
+    color: #f59e0b;
+}
         body {
             margin: 0;
             padding: 0;
@@ -107,10 +145,27 @@
 </head>
 
 <body>
+<nav class="navbar">
 
+    <div class="nav-container">
+
+        <div class="logo">
+            SSR
+        </div>
+
+        <div class="nav-links">
+            <a href="#about">About</a>
+            <a href="#expertise">Expertise</a>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
+        </div>
+
+    </div>
+
+</nav>
     <div class="container">
 
-        <div class="hero">
+  <div class="hero" id="about">
 
             <h1>Sudin Singha Roy</h1>
 
@@ -130,7 +185,7 @@ Tetra Pak India, IDMC Limited, ITC Limited, GEA Singapore.
 
         </div>
 
-        <div class="section">
+       <div class="section" id="expertise">
 
             <h3>Core Expertise</h3>
 
@@ -144,7 +199,7 @@ Tetra Pak India, IDMC Limited, ITC Limited, GEA Singapore.
 
         </div>
 
-        <div class="section">
+        <div class="section" id="projects">
 
             <h3>Industry Exposure</h3>
 
@@ -156,7 +211,7 @@ Tetra Pak India, IDMC Limited, ITC Limited, GEA Singapore.
 
         </div>
 
-        <div class="contact">
+        <div class="contact" id="contact">
 
             <h3>Contact</h3>
 
