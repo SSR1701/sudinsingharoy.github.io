@@ -1,12 +1,13 @@
 # Sudin Singha Roy
 
-Dairy & Food Processing Consultant  
-Process Engineering | Commissioning | Project Planning & Execution
+<p>
+    Process engineering professional supporting dairy and beverage manufacturing
+    projects across design, commissioning, operational stabilisation,
+    and production ramp-up.
+</p>
 
-📍 India / International Projects  
-📧 Email: sudinsingharoy.consultant@gmail.com  
-🔧 Expertise:
-- Dairy plant commissioning
-- P&ID review
-- Technical offer evaluation
-- Vendor coordination
+<p>
+    Experience across greenfield installations, capacity expansions,
+    and international project delivery with organisations including
+    Tetra Pak, ITC Limited, GEA Singapore, and SustEL.
+</p>
