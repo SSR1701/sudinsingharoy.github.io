@@ -9,5 +9,5 @@
 <p>
     Experience across greenfield installations, capacity expansions,
     and international project delivery with organisations including
-    Tetra Pak, ITC Limited, GEA Singapore, and SustEL.
+    Tetra Pak India, IDMC Limited , ITC Limited and GEA Singapore.
 </p>
